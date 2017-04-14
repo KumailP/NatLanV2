@@ -1,4 +1,5 @@
 #include "mainwindow.h"
+#include "natlan.h"
 #include <QApplication>
 
 int main(int argc, char *argv[])
